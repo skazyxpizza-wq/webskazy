@@ -1,0 +1,35 @@
+# Roadmap
+
+- [x] Crear persistencia y carga de imágenes para anuncios.
+- [x] Agregar gestión completa de anuncios en Admin sin rediseñar el panel.
+- [x] Mostrar anuncios secuenciales animados en Cliente.
+- [x] Corregir el tutorial con spotlight nítido y objetivos reales.
+- [x] Rediseñar menú, tarjetas, carrito y checkout del Cliente.
+- [x] Añadir animaciones accesibles y comportamiento mobile-first.
+- [x] Validar compilación y flujos en celular, tablet y escritorio.
+- [x] Integrar el logo principal y el isologo en el recorrido del Cliente.
+- [x] Incorporar las ocho redes sociales en el pie del menú.
+- [x] Crear y conectar el favicon de marca.
+- [x] Validar presencia de marca, enlaces y visualización en celular y escritorio.
+- [x] Agregar descripción larga, modificadores y sugeridos por producto en Admin y persistencia.
+- [x] Crear ficha móvil deslizable con selección obligatoria/opcional y sugeridos.
+- [x] Conectar variantes, precios y opciones al carrito, pedido y WhatsApp.
+- [x] Detener giro en Promos/Combos y suavizar divisiones de Cliente.
+- [x] Validar ficha, carrito y resumen del pedido en celular sin enviar un pedido real.
+- [x] Eliminar por completo los banners acumulados del Cliente y su gestión en Admin.
+- [x] Unificar la acción de cada producto bajo un único botón “Agregar”.
+- [x] Pulir la barra móvil de filtros con Favoritos y Todo fijos.
+- [x] Completar alta, edición, activación y eliminación de categorías desde Admin.
+- [x] Quitar la numeración decorativa de los títulos de categoría.
+- [x] Eliminar el espacio vacío debajo de las redes sociales del pie.
+- [x] Mostrar el carrito cerrado sólo como ícono con cantidad, sin total.
+- [x] Cerrar el detalle del carrito al tocar fuera y conservar su flecha desplegable.
+- [x] Confirmar y validar la descarga Excel de todos los pedidos desde Admin.
+- [ ] Corregir valores numéricos del Excel y verificar archivo.
+- [ ] Ajustar filtros, isologo Admin y tarjetas Promo/Combo.
+- [ ] Optimizar imágenes, animaciones y separación de sectores.
+- [ ] Completar pedido grupal persistido y desglose WhatsApp.
+- [ ] Agregar instalación en pantalla de inicio sin modo offline.
+- [ ] Configurar cobertura circular provisional editable.
+- [ ] Informar requisitos para guía por calles del cadete antes de integrarla.
+- [ ] Verificar experiencia móvil y ajustes finales.
